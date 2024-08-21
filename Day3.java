@@ -1,4 +1,4 @@
-# Day3 
+//Day3 
 class Solution {
     public boolean isPowerOfTwo(int x) {
       if(x==0){
